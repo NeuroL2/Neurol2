@@ -2,7 +2,9 @@
 
 # Olá, Ricardo aqui!
 
-Me chamo Ricardo, tenho 35 anos e atualmente estou aprendendo linguagens de programação. Sou formado em Gestão Comercial e estou buscando uma nova área de trabalho. Sou de Curitiba e atualmente trabalho como supervisor de equipes comerciais.
+Me chamo Ricardo, tenho 35 anos e atualmente estou aprendendo linguagens de programação. 
+Sou formado em Gestão Comercial e estou buscando uma nova área de trabalho. 
+Sou de Curitiba e atualmente trabalho como supervisor de equipes comerciais.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FmaG9wZTMyYzhuNGxham45NmhocTVieWpnZXQzMW9wODJka2R2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BpGWitbFZflfSUYuZ9/giphy.gif" width="350">
