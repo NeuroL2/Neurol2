@@ -16,24 +16,19 @@ Sou de Curitiba e atualmente trabalho como supervisor de equipes comerciais.
 
 <p align="center">
     <span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> 
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
     </span>
     <span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python"/> 
-        <a href="https://www.python.org/">Python</a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
     </span>
     <span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> 
-        <a href="https://en.cppreference.com/w/">C++</a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
     </span>
     <span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/> 
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML5</a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
     </span>
     <span>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/> 
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
     </span>
 </p>
 
