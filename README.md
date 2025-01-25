@@ -30,6 +30,9 @@ Sou de Curitiba e atualmente trabalho como supervisor de equipes comerciais.
     <span>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
     </span>
+    <span>
+        <img src="https://i.ibb.co/dQmJDHW/Whats-App-Image-2025-01-24-at-23-26-43.jpg" width="40" height="40" alt="Curso ONE Alura"/>
+    </span>
 </p>
 
 ---
